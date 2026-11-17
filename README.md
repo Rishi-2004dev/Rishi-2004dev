@@ -37,7 +37,7 @@ rishi = {
 }
 ```
 
-Building AI systems across **Industrial Research, Deep Learning & Embedded Systems** — developing vibration-based fault monitoring at **NIT Delhi**, engineered a **ResNet50-DANN (7 classes, 2 domains)** for cross-domain crop disease recognition, and co-building **Aeronyx**, presented at the Delhi Secretariat to the Chief Minister of Delhi.
+Building AI systems across **Industrial Research, Deep Learning & Embedded Systems** - developing vibration-based fault monitoring at **NIT Delhi**, engineered a **ResNet50-DANN (7 classes, 2 domains)** for cross-domain crop disease recognition, and co-building **Aeronyx**, presented at the Delhi Secretariat to the Chief Minister of Delhi.
 
 ## 🚀 Featured Projects
 
@@ -45,7 +45,7 @@ Building AI systems across **Industrial Research, Deep Learning & Embedded Syste
 |---|---|---|
 | [**NIT Delhi**](YOUR_NIT_REPOSITORY_LINK) – Industrial Fault Monitoring | Vibration Analysis · Predictive Maintenance · Domain Adaptation · Ensemble Learning | Python · Signal Processing · Machine Learning · ESP-IDF |
 | [**DANN**](https://github.com/Rishi-2004dev/dann-crop-disease) – Crop Disease Classification | ResNet50 · 7 Classes · 2 Crops · Cross-Domain Learning · Gradient Reversal | PyTorch · TorchVision · NumPy · FastAPI · Hugging Face |
-| [**Aeronyx**](https://github.com/sheelscripts/aeronyx) – Hyperlocal AQI Intelligence | India Innovates Grand Finalist — Top 60 / 5,000+ teams | Python · Scikit-learn · XGBoost · Next.js · React · TypeScript · ESP32 · SQLite |
+| [**Aeronyx**](https://github.com/sheelscripts/aeronyx) – Hyperlocal AQI Intelligence | India Innovates Grand Finalist - Top 60 / 5,000+ teams | Python · Scikit-learn · XGBoost · Next.js · React · TypeScript · ESP32 · SQLite |
 | [**Chest X-ray**](https://github.com/Rishi-2004dev/chest-xray-classification) – Classification | 3 Classes · 93.7% Recall · CNN-based Classification | TensorFlow · Keras · NumPy · FastAPI · Pillow |
 
 
@@ -54,11 +54,11 @@ Building AI systems across **Industrial Research, Deep Learning & Embedded Syste
 
 ## 🏆 Achievements
 
-🥇 **India Innovates Grand Finalist 2025** — Top 60 / 5,000+ teams | Team MechaMinds
+🥇 **India Innovates Grand Finalist 2025** - Top 60 / 5,000+ teams | Team MechaMinds
 
-🥈 **Case-Based Competition** — 2nd Place | ₹20,000 Cash Prize
+🥈 **Case-Based Competition** - 2nd Place | ₹20,000 Cash Prize
 
-🏛️ **Delhi Secretariat Presentation** — Presented Aeronyx to Hon'ble Chief Minister of Delhi, Smt. Rekha Gupta.
+🏛️ **Delhi Secretariat Presentation** - Presented Aeronyx to Hon'ble Chief Minister of Delhi, Smt. Rekha Gupta.
 
 
 ---
