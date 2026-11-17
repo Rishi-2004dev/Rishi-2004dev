@@ -1,4 +1,5 @@
 
+
 <h1 align="center">Rishi Vishwakarma</h1>
 
 <h3 align="center">
@@ -6,22 +7,15 @@
 </h3>
 
 <p align="center">
-  <a href="mailto:rishiusar27@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/rishi-vishwakarma-902925253/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Rishi-2004dev">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://x.com/rishi_v2004">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
+  <a href="mailto:rishiusar27@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/rishi-vishwakarma-902925253/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Rishi-2004dev"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://x.com/rishi_v2004"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=Rishi-2004dev&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS"/>
 </p>
 
 ---
+
 
 
 
