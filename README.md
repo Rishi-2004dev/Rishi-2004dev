@@ -98,12 +98,12 @@ Building AI systems across **Industrial Research, Deep Learning & Embedded Syste
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rishi-2004dev&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishi-2004dev&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Rishi-2004dev&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rishi-2004dev&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi-2004dev&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=Rishi-2004dev&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
